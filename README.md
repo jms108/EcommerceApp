@@ -1,4 +1,4 @@
-# ecoomerceapp
+# ecomerceapp
 
 A new Flutter project.
 
